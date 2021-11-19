@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=f\ c
+comment1.target=void\ atk(int,\ int)
+comment2.params=
+comment2.target=void\ nuke()
+comment3.params=
+comment3.target=void\ mutate()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

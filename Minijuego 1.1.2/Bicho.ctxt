@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bicho
+comment1.params=s
+comment1.target=Bicho(int)
+comment2.params=s
+comment2.target=void\ setSalud(int)
+comment3.params=
+comment3.target=int\ getSalud()
+numComments=4
